@@ -4,3 +4,6 @@ langsmith
 python-dotenv
 langchain-groq
 langchain_tavily
+joblib
+numpy
+scikit-learn
